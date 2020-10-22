@@ -1,3 +1,2 @@
-run="java Main.java"
-language="java"
-onBoot="echo Booting up!" 
+run="run_button.sh"
+
