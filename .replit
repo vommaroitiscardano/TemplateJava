@@ -1,2 +1,6 @@
+#lanciamo il file "run_button" che è uno script bash.
+#run non fa altro che eseguire codice bash.
 run="bash run_button.sh"
+
+#settiamo come linguaggio java
 language="java"
